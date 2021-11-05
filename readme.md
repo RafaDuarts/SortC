@@ -1,4 +1,4 @@
-Sort Algorithms in C Language
+# Sort Algorithms in C Language
 
-# Insertion Sort
-# Selection Sort
+> Insertion Sort
+> Selection Sort
